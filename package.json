@@ -1,6 +1,6 @@
 {
-	"name": "react-diff-viewer",
-	"version": "3.1.1",
+	"name": "kz-react-diff-viewer",
+	"version": "3.1.2",
 	"private": false,
 	"description": "A simple and beautiful text diff viewer component made with diff and React",
 	"keywords": [
@@ -79,8 +79,8 @@
 		"webpack-dev-server": "^3.1.9"
 	},
 	"peerDependencies": {
-		"react": "^15.3.0 || ^16.0.0",
-		"react-dom": "^15.3.0 || ^16.0.0"
+		"react": "^15.3.0 || ^16.0.0 || ^17.0.0",
+		"react-dom": "^15.3.0 || ^16.0.0 || ^17.0.0"
 	},
 	"engines": {
 		"node": ">= 8"
